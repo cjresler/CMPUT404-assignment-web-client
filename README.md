@@ -26,7 +26,9 @@ httpclient.py contains contributions from:
 *Ryan Satyabrata - I read his code found here: https://github.com/kobitoko/CMPUT404-assignment-web-client/blob/master/httpclient.py to help me understand how to approach aspects of the assignment. I also used some of his code directly from his github.
 
 I referenced the following pages to help me understand certain functions:
+
 https://docs.python.org/2/library/urllib.html
+
 https://docs.python.org/2/library/string.html
 
 
